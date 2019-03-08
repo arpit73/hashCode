@@ -5,4 +5,5 @@ The idea of project is to take an uncoloured/black & white video, and capture th
 
 Link for the video used :- https://www.youtube.com/watch?v=97cXRWNMA3g
 
-! [feed input](./images/frame108.jpg)
+![feed input](./images/frame108.jpg)
+![feed output](./images/frame108_test.jpg)
